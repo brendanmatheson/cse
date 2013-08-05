@@ -1,0 +1,14 @@
+Course tree / map -- make the links in the PDF more navigable, with dropdown menus for links and metadata about them
+Course Index (of Keywords): sorted alphabetically, by time of upload, by mentions, by time to read/do
+Course Index (of people): 
+Study manager
+Need to treat text in database as HTML, so that it renders with formatting (italics and paragraphs)
+Need menu elements to function as hyperlinks
+Need quote to move down during scrolling 
+Convert links and lectures to ToDo's 
+Generate estimates for each task
+Strategy for getting Tweets, Likes, and Bitcoin: post in course forums; have others post for us; post to other courses (preferably the largest)
+Potential integration with Pocket, Anki, etc
+Could the Google Alerts Api be used to quickly build a notifier for new class content?
+Check what the Coursera API offers
+https://learningjar.com/about.html

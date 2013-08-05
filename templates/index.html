@@ -1,0 +1,17 @@
+<!doctype html>
+<html>
+<head>
+</head>
+<body>
+{% block links %}
+	{% for item in list %}
+		{{item.lecture|safe}} 
+		</br>
+		<a href={{item.link|safe}} target="_blank">{{item.link|safe}}</a>
+		</br>
+		</br>
+		</br>
+	{% endfor %}
+{% endblock %}
+</body>
+</html>
