@@ -1,0 +1,7 @@
+venv
+*.pyc
+stopwords_filter.py
+hello.py
+pdf_link_extractor.py
+Coursera Dashboard Spec.txt
+CourseraAppToDo.txt
